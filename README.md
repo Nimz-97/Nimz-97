@@ -6,6 +6,7 @@
 <table align="center">
   <tr border="none">
     <td width="70%" align="left">
+      
 - 🔭 I’m currently working on **NeuroForge Web project**
 
 - 💬 Ask me about **React HTML JavaScript CSS**
